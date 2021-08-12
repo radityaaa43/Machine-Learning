@@ -1,1 +1,1 @@
-# Stock Analysis Using Python and LSTM
+# Machine Learning Projects
