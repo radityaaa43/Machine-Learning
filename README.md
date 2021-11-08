@@ -6,3 +6,4 @@ This section is divided into 6 projects, namely:
   4. Stock Analysis and Forecasting : https://github.com/radityaaa43/Machine-Learning/tree/main/Stock-Analysis
   5. Customer Segmentation for E-Commerce Data = https://github.com/radityaaa43/Machine-Learning/tree/main/CustomerSegemntation-E-Commerce
   6. Rock, Paper, & Scissors : https://github.com/radityaaa43/Machine-Learning/tree/main/Rock%2C%20Paper%2C%20%26%20Scissors
+  7. Employee Analysis : https://github.com/radityaaa43/Machine-Learning/tree/main/Employee-Analysis
